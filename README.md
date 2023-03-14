@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**santiagomorelle/santiagomorelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Santiago**, a Software Developer who's currently working as a QA Engineer. I used to teach English.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: he/him
+<br/><br/>
+🔭 I’m currently working on a Live Chat project.
+<br/><br/>
+🌱 I’m currently learning Tailwind CSS.
+<br/><br/>
+⚡ Fun fact: I'm shorter than the average door height in the United States, which is about 6 feet 8 inches.
+<br/><br/>
+📫 How to reach me: santiagodev@icloud.com
