@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Santiago**, a Software Developer who's currently working as a QA Engineer. I used to teach English.
+I'm **Santiago**, a Software Engineer who's currently working as a QA Engineer. I used to teach English.
 
 ## About me
 
