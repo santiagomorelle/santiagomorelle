@@ -4,8 +4,6 @@ I'm **Santiago**, a Software Engineer who's currently working as a QA Engineer. 
 
 ## About me
 
-😄 Pronouns: he/him
-<br/><br/>
 🔭 I’m currently working on a Live Chat project.
 <br/><br/>
 🌱 I’m currently learning Tailwind CSS.
